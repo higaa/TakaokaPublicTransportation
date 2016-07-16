@@ -1,0 +1,2 @@
+agency_id, agency_name,agency_url,agency_timezone,agency_lang
+TakaokaCity,高岡市,http://www.city.takaoka.toyama.jp/kotsu/kurashi/kotsu/kokyo/communitybus/,Asia/Tokyo,ja

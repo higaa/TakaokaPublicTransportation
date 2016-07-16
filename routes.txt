@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+KomichiOrange,TakaokaCity,オレンジ,こみちオレンジルート,3
+KomichiBlue,TakaokaCity,ブルー,こみちブルールート,3
